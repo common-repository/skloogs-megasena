@@ -1,0 +1,745 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: skloogs-megasena\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-01 00:24-0300\n"
+"PO-Revision-Date: 2009-09-01 00:28-0300\n"
+"Last-Translator: Philippe Hilger <philippe.hilger@gmail.com>\n"
+"Language-Team: Skloogs <hilgerph@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: skloogs-megasena.php:415
+#: skloogs-megasena.php:416
+#: skloogs-megasena.php:427
+#: skloogs-megasena.php:436
+#: skloogs-megasena.php:468
+#: skloogs-megasena.php:476
+#: skloogs-megasena.php:688
+msgid "Game#:"
+msgstr "Concurso:"
+
+#: skloogs-megasena.php:419
+#: skloogs-megasena.php:420
+#: skloogs-megasena.php:431
+#: skloogs-megasena.php:440
+#: skloogs-megasena.php:472
+#: skloogs-megasena.php:480
+#: skloogs-megasena.php:692
+msgid "Date:"
+msgstr "Data:"
+
+#: skloogs-megasena.php:423
+#: skloogs-megasena.php:424
+#: skloogs-megasena.php:435
+#: skloogs-megasena.php:444
+#: skloogs-megasena.php:476
+#: skloogs-megasena.php:484
+#: skloogs-megasena.php:697
+msgid "MegaSena:"
+msgstr "MegaSena:"
+
+#: skloogs-megasena.php:428
+#: skloogs-megasena.php:429
+#: skloogs-megasena.php:440
+#: skloogs-megasena.php:449
+#: skloogs-megasena.php:481
+#: skloogs-megasena.php:489
+#: skloogs-megasena.php:702
+msgid "Sena Winners:"
+msgstr "Ganhadores Sena:"
+
+#: skloogs-megasena.php:432
+#: skloogs-megasena.php:433
+#: skloogs-megasena.php:447
+#: skloogs-megasena.php:456
+#: skloogs-megasena.php:488
+#: skloogs-megasena.php:496
+#: skloogs-megasena.php:709
+msgid "Quina Winners:"
+msgstr "Ganhadores Quina:"
+
+#: skloogs-megasena.php:436
+#: skloogs-megasena.php:437
+#: skloogs-megasena.php:451
+#: skloogs-megasena.php:460
+#: skloogs-megasena.php:492
+#: skloogs-megasena.php:500
+#: skloogs-megasena.php:713
+msgid "Quadra Winners:"
+msgstr "Ganhadores Quadra:"
+
+#: skloogs-megasena.php:455
+#: skloogs-megasena.php:604
+#: skloogs-megasena.php:717
+#: skloogs-megasena.php:748
+#: skloogs-megasena.php:923
+#: skloogs-megasena.php:931
+#: skloogs-megasena.php:1217
+msgid "Sort by Number"
+msgstr "Ordenar por Número"
+
+#: skloogs-megasena.php:455
+#: skloogs-megasena.php:604
+#: skloogs-megasena.php:717
+#: skloogs-megasena.php:748
+#: skloogs-megasena.php:923
+#: skloogs-megasena.php:931
+#: skloogs-megasena.php:1217
+msgid "Number"
+msgstr "Número"
+
+#: skloogs-megasena.php:457
+#: skloogs-megasena.php:606
+#: skloogs-megasena.php:719
+#: skloogs-megasena.php:750
+#: skloogs-megasena.php:925
+#: skloogs-megasena.php:933
+#: skloogs-megasena.php:1219
+msgid "Sort by Count"
+msgstr "Ordenar por Saídas"
+
+#: skloogs-megasena.php:457
+#: skloogs-megasena.php:606
+#: skloogs-megasena.php:719
+#: skloogs-megasena.php:750
+#: skloogs-megasena.php:925
+#: skloogs-megasena.php:933
+#: skloogs-megasena.php:1219
+msgid "Count"
+msgstr "Saídas"
+
+#: skloogs-megasena.php:459
+#: skloogs-megasena.php:608
+#: skloogs-megasena.php:721
+#: skloogs-megasena.php:752
+#: skloogs-megasena.php:927
+#: skloogs-megasena.php:935
+#: skloogs-megasena.php:1221
+msgid "Sort by Senas"
+msgstr "Ordenar por Senas"
+
+#: skloogs-megasena.php:459
+#: skloogs-megasena.php:608
+#: skloogs-megasena.php:721
+#: skloogs-megasena.php:752
+#: skloogs-megasena.php:927
+#: skloogs-megasena.php:935
+#: skloogs-megasena.php:1221
+msgid "In Senas"
+msgstr "Em Senas"
+
+#: skloogs-megasena.php:461
+#: skloogs-megasena.php:610
+#: skloogs-megasena.php:723
+#: skloogs-megasena.php:754
+#: skloogs-megasena.php:929
+#: skloogs-megasena.php:937
+#: skloogs-megasena.php:1223
+msgid "Sort by Quinas"
+msgstr "Ordenar por Quinas"
+
+#: skloogs-megasena.php:461
+#: skloogs-megasena.php:610
+#: skloogs-megasena.php:723
+#: skloogs-megasena.php:754
+#: skloogs-megasena.php:929
+#: skloogs-megasena.php:937
+#: skloogs-megasena.php:1223
+msgid "In Quinas"
+msgstr "Em Quinas"
+
+#: skloogs-megasena.php:463
+#: skloogs-megasena.php:612
+#: skloogs-megasena.php:725
+#: skloogs-megasena.php:756
+#: skloogs-megasena.php:931
+#: skloogs-megasena.php:939
+#: skloogs-megasena.php:1225
+msgid "Sort by Quadras"
+msgstr "Ordenar por Quadras"
+
+#: skloogs-megasena.php:463
+#: skloogs-megasena.php:612
+#: skloogs-megasena.php:725
+#: skloogs-megasena.php:756
+#: skloogs-megasena.php:931
+#: skloogs-megasena.php:939
+#: skloogs-megasena.php:1225
+msgid "In Quadras"
+msgstr "Em Quadras"
+
+#: skloogs-megasena.php:465
+#: skloogs-megasena.php:614
+#: skloogs-megasena.php:727
+#: skloogs-megasena.php:758
+#: skloogs-megasena.php:933
+#: skloogs-megasena.php:941
+#: skloogs-megasena.php:1227
+msgid "Sort by Combination"
+msgstr "Ordenar por Combinação"
+
+#: skloogs-megasena.php:465
+#: skloogs-megasena.php:614
+#: skloogs-megasena.php:727
+#: skloogs-megasena.php:758
+#: skloogs-megasena.php:933
+#: skloogs-megasena.php:941
+#: skloogs-megasena.php:1227
+msgid "Weighted Combination"
+msgstr "Combinação Ponderada"
+
+#: skloogs-megasena.php:467
+#: skloogs-megasena.php:616
+#: skloogs-megasena.php:729
+#: skloogs-megasena.php:760
+#: skloogs-megasena.php:935
+#: skloogs-megasena.php:943
+#: skloogs-megasena.php:1229
+msgid "Sort by Wins/Count"
+msgstr "Ordenar por Ganhadores/Saída"
+
+#: skloogs-megasena.php:467
+#: skloogs-megasena.php:616
+#: skloogs-megasena.php:729
+#: skloogs-megasena.php:760
+#: skloogs-megasena.php:935
+#: skloogs-megasena.php:943
+#: skloogs-megasena.php:1229
+msgid "Wins/Count"
+msgstr "Ganhadores/Saída"
+
+#: skloogs-megasena.php:513
+#: skloogs-megasena.php:592
+#: skloogs-megasena.php:662
+#: skloogs-megasena.php:700
+#: skloogs-megasena.php:775
+#: skloogs-megasena.php:731
+#: skloogs-megasena.php:813
+#: skloogs-megasena.php:902
+#: skloogs-megasena.php:988
+#: skloogs-megasena.php:910
+#: skloogs-megasena.php:996
+#: skloogs-megasena.php:896
+#: skloogs-megasena.php:1166
+#: skloogs-megasena.php:1282
+msgid "Analyzed Games:"
+msgstr "Concursos Analizados:"
+
+#: skloogs-megasena.php:548
+#: skloogs-megasena.php:697
+#: skloogs-megasena.php:811
+#: skloogs-megasena.php:849
+#: skloogs-megasena.php:1024
+#: skloogs-megasena.php:1032
+#: skloogs-megasena.php:1320
+msgid "Random Sena:"
+msgstr "Sena Aleatória:"
+
+#: skloogs-megasena.php:553
+#: skloogs-megasena.php:702
+#: skloogs-megasena.php:816
+#: skloogs-megasena.php:854
+#: skloogs-megasena.php:1029
+#: skloogs-megasena.php:1037
+#: skloogs-megasena.php:1325
+msgid "Random Quina:"
+msgstr "Quina Aleatória:"
+
+#: skloogs-megasena.php:558
+#: skloogs-megasena.php:707
+#: skloogs-megasena.php:821
+#: skloogs-megasena.php:859
+#: skloogs-megasena.php:1034
+#: skloogs-megasena.php:1042
+#: skloogs-megasena.php:1330
+msgid "Random Lotofácil:"
+msgstr "Lotofácil Aleatório:"
+
+#: skloogs-megasena.php:563
+#: skloogs-megasena.php:712
+#: skloogs-megasena.php:826
+#: skloogs-megasena.php:864
+#: skloogs-megasena.php:1039
+#: skloogs-megasena.php:1047
+#: skloogs-megasena.php:1335
+msgid "Random Lotomania:"
+msgstr "Lotomania Aleatória:"
+
+#: skloogs-megasena.php:484
+#: skloogs-megasena.php:592
+#: skloogs-megasena.php:605
+#: skloogs-megasena.php:748
+#: skloogs-megasena.php:756
+#: skloogs-megasena.php:1012
+msgid "Most Counts"
+msgstr "Maiores Saídas"
+
+#: skloogs-megasena.php:493
+#: skloogs-megasena.php:601
+#: skloogs-megasena.php:614
+#: skloogs-megasena.php:759
+#: skloogs-megasena.php:767
+#: skloogs-megasena.php:1023
+msgid "Less Counts"
+msgstr "Menores Saídas"
+
+#: skloogs-megasena.php:502
+#: skloogs-megasena.php:610
+#: skloogs-megasena.php:623
+#: skloogs-megasena.php:770
+#: skloogs-megasena.php:778
+#: skloogs-megasena.php:1034
+msgid "More Senas"
+msgstr "Mais Senas"
+
+#: skloogs-megasena.php:511
+#: skloogs-megasena.php:619
+#: skloogs-megasena.php:632
+#: skloogs-megasena.php:781
+#: skloogs-megasena.php:789
+#: skloogs-megasena.php:1045
+msgid "Less Senas"
+msgstr "Menos Senas"
+
+#: skloogs-megasena.php:520
+#: skloogs-megasena.php:628
+#: skloogs-megasena.php:641
+#: skloogs-megasena.php:792
+#: skloogs-megasena.php:800
+#: skloogs-megasena.php:1056
+msgid "More Quinas"
+msgstr "Mais Quinas"
+
+#: skloogs-megasena.php:529
+#: skloogs-megasena.php:637
+#: skloogs-megasena.php:650
+#: skloogs-megasena.php:803
+#: skloogs-megasena.php:811
+#: skloogs-megasena.php:1067
+msgid "Less Quinas"
+msgstr "Menos Quinas"
+
+#: skloogs-megasena.php:538
+#: skloogs-megasena.php:646
+#: skloogs-megasena.php:659
+#: skloogs-megasena.php:814
+#: skloogs-megasena.php:822
+#: skloogs-megasena.php:1078
+msgid "More Quadras"
+msgstr "Mais Quadras"
+
+#: skloogs-megasena.php:547
+#: skloogs-megasena.php:655
+#: skloogs-megasena.php:668
+#: skloogs-megasena.php:825
+#: skloogs-megasena.php:833
+#: skloogs-megasena.php:1089
+msgid "Less Quadras"
+msgstr "Menos Quadras"
+
+#: skloogs-megasena.php:556
+#: skloogs-megasena.php:664
+#: skloogs-megasena.php:677
+#: skloogs-megasena.php:836
+#: skloogs-megasena.php:844
+#: skloogs-megasena.php:1100
+msgid "More Combination"
+msgstr "Maiores Combinações"
+
+#: skloogs-megasena.php:565
+#: skloogs-megasena.php:673
+#: skloogs-megasena.php:686
+#: skloogs-megasena.php:847
+#: skloogs-megasena.php:855
+#: skloogs-megasena.php:1111
+msgid "Less Combination"
+msgstr "Menores Combinações"
+
+#: skloogs-megasena.php:574
+#: skloogs-megasena.php:682
+#: skloogs-megasena.php:695
+#: skloogs-megasena.php:858
+#: skloogs-megasena.php:866
+#: skloogs-megasena.php:1122
+msgid "More Wins/Count"
+msgstr "Mais Ganhadores por Saída"
+
+#: skloogs-megasena.php:583
+#: skloogs-megasena.php:691
+#: skloogs-megasena.php:704
+#: skloogs-megasena.php:869
+#: skloogs-megasena.php:877
+#: skloogs-megasena.php:1133
+msgid "Less Wins/Count"
+msgstr "Menos Ganhadores por Saída"
+
+#: skloogs-megasena.php:444
+#: skloogs-megasena.php:570
+#: skloogs-megasena.php:453
+#: skloogs-megasena.php:583
+#: skloogs-megasena.php:485
+#: skloogs-megasena.php:724
+#: skloogs-megasena.php:493
+#: skloogs-megasena.php:732
+#: skloogs-megasena.php:706
+#: skloogs-megasena.php:961
+msgid "Cumulated!"
+msgstr "Acumulou!"
+
+#: skloogs-megasena.php:529
+#: skloogs-megasena.php:542
+#: skloogs-megasena.php:682
+#: skloogs-megasena.php:690
+msgid "Megasena Games List Unavailable."
+msgstr "Lista de Concursos da Megasena Indisponível."
+
+#: skloogs-megasena.php:532
+#: skloogs-megasena.php:545
+#: skloogs-megasena.php:685
+#: skloogs-megasena.php:693
+#: skloogs-megasena.php:922
+msgid "Game#"
+msgstr "Concurso"
+
+#: skloogs-megasena.php:533
+#: skloogs-megasena.php:546
+#: skloogs-megasena.php:686
+#: skloogs-megasena.php:694
+#: skloogs-megasena.php:923
+msgid "Date"
+msgstr "Data"
+
+#: skloogs-megasena.php:534
+#: skloogs-megasena.php:547
+#: skloogs-megasena.php:687
+#: skloogs-megasena.php:695
+#: skloogs-megasena.php:924
+msgid "Result"
+msgstr "Resultado"
+
+#: skloogs-megasena.php:536
+#: skloogs-megasena.php:549
+#: skloogs-megasena.php:689
+#: skloogs-megasena.php:697
+#: skloogs-megasena.php:926
+msgid "Ordered"
+msgstr "Ordenar"
+
+#: skloogs-megasena.php:538
+#: skloogs-megasena.php:551
+#: skloogs-megasena.php:691
+#: skloogs-megasena.php:699
+#: skloogs-megasena.php:928
+msgid "Unordered"
+msgstr "Sem ordem"
+
+#: skloogs-megasena.php:541
+#: skloogs-megasena.php:554
+#: skloogs-megasena.php:694
+#: skloogs-megasena.php:702
+#: skloogs-megasena.php:931
+msgid "Senas"
+msgstr "Senas"
+
+#: skloogs-megasena.php:542
+#: skloogs-megasena.php:555
+#: skloogs-megasena.php:695
+#: skloogs-megasena.php:703
+#: skloogs-megasena.php:932
+msgid "Quinas"
+msgstr "Quinas"
+
+#: skloogs-megasena.php:543
+#: skloogs-megasena.php:556
+#: skloogs-megasena.php:696
+#: skloogs-megasena.php:704
+#: skloogs-megasena.php:933
+msgid "Quadras"
+msgstr "Quadras"
+
+#: skloogs-megasena.php:554
+#: skloogs-megasena.php:567
+#: skloogs-megasena.php:708
+#: skloogs-megasena.php:716
+#: skloogs-megasena.php:945
+#, php-format
+msgid "Results for Year %s"
+msgstr "Resultados do Ano %s"
+
+#: skloogs-megasena.php:590
+#: skloogs-megasena.php:603
+#: skloogs-megasena.php:746
+#: skloogs-megasena.php:754
+#: skloogs-megasena.php:1010
+msgid "Megasena Suggestions Unavailable."
+msgstr "Sugestões de Megasena Indisponíveis."
+
+#: skloogs-megasena.php:714
+#: skloogs-megasena.php:745
+#: skloogs-megasena.php:920
+#: skloogs-megasena.php:928
+#: skloogs-megasena.php:1214
+msgid "Megasena Statistics Unavailable."
+msgstr "Estatísticas de Megasena Indisponíveis."
+
+#: skloogs-megasena.php:713
+#: skloogs-megasena.php:880
+#: skloogs-megasena.php:888
+#: skloogs-megasena.php:1144
+msgid "Oldest"
+msgstr "Mais Antigo"
+
+#: skloogs-megasena.php:722
+#: skloogs-megasena.php:891
+#: skloogs-megasena.php:899
+#: skloogs-megasena.php:1155
+msgid "Most Recent"
+msgstr "Mais recente"
+
+#: skloogs-megasena.php:762
+#: skloogs-megasena.php:937
+#: skloogs-megasena.php:945
+#: skloogs-megasena.php:1231
+msgid "Sort by LastSeen"
+msgstr "Ordenar por Data"
+
+#: skloogs-megasena.php:762
+#: skloogs-megasena.php:937
+#: skloogs-megasena.php:945
+#: skloogs-megasena.php:1231
+msgid "Last Seen"
+msgstr "Última Saída"
+
+#: skloogs-megasena.php:496
+#: skloogs-megasena.php:504
+#: skloogs-megasena.php:717
+msgid "Next Reward:"
+msgstr "Próximo Prêmio:"
+
+#: skloogs-megasena.php:581
+#: skloogs-megasena.php:589
+#: skloogs-megasena.php:817
+msgid "Megasena Gains Stats Unavailable."
+msgstr "Estatísticas de Ganhos Indisponíveis"
+
+#: skloogs-megasena.php:583
+#: skloogs-megasena.php:591
+#: skloogs-megasena.php:819
+msgid "Global Stats"
+msgstr "Estatísticas Globais"
+
+#: skloogs-megasena.php:584
+#: skloogs-megasena.php:592
+#: skloogs-megasena.php:820
+msgid "Total Winners"
+msgstr "Número Total de Ganhadores"
+
+#: skloogs-megasena.php:588
+#: skloogs-megasena.php:596
+#: skloogs-megasena.php:824
+msgid "Total Gains"
+msgstr "Ganhos Totais"
+
+#: skloogs-megasena.php:592
+#: skloogs-megasena.php:600
+#: skloogs-megasena.php:828
+msgid "Average Gain per Winner"
+msgstr "Ganho Médio por Ganhador"
+
+#: skloogs-megasena.php:597
+#: skloogs-megasena.php:605
+#: skloogs-megasena.php:833
+msgid "Average Total Gain per Game"
+msgstr "Ganho Médio Total por Jogo"
+
+#: skloogs-megasena.php:602
+#: skloogs-megasena.php:610
+#: skloogs-megasena.php:838
+msgid "Sena Stats"
+msgstr "Estatísticas para Senas"
+
+#: skloogs-megasena.php:603
+#: skloogs-megasena.php:611
+#: skloogs-megasena.php:839
+msgid "Sena Winners"
+msgstr "Ganhadores de Sena"
+
+#: skloogs-megasena.php:607
+#: skloogs-megasena.php:615
+#: skloogs-megasena.php:843
+msgid "Sena Gains"
+msgstr "Ganhos na Sena"
+
+#: skloogs-megasena.php:611
+#: skloogs-megasena.php:619
+#: skloogs-megasena.php:847
+msgid "Average Gain per Sena Winner"
+msgstr "Ganho Médio por Ganhador de Sena"
+
+#: skloogs-megasena.php:616
+#: skloogs-megasena.php:624
+#: skloogs-megasena.php:852
+msgid "Average Sena Gain per Game"
+msgstr "Ganho Médio na Sena por Jogo"
+
+#: skloogs-megasena.php:621
+#: skloogs-megasena.php:629
+#: skloogs-megasena.php:857
+msgid "Quina Stats"
+msgstr "Estatísticas para Quinas"
+
+#: skloogs-megasena.php:622
+#: skloogs-megasena.php:630
+#: skloogs-megasena.php:858
+msgid "Quina Winners"
+msgstr "Ganhadores de Quina"
+
+#: skloogs-megasena.php:626
+#: skloogs-megasena.php:634
+#: skloogs-megasena.php:862
+msgid "Quina Gains"
+msgstr "Ganhos na Quina"
+
+#: skloogs-megasena.php:630
+#: skloogs-megasena.php:638
+#: skloogs-megasena.php:866
+msgid "Average Gain per Quina Winner"
+msgstr "Ganho Médio por Ganhador de Quina"
+
+#: skloogs-megasena.php:635
+#: skloogs-megasena.php:643
+#: skloogs-megasena.php:871
+msgid "Average Quina Gain per Game"
+msgstr "Ganho Médio na Quina por Jogo"
+
+#: skloogs-megasena.php:640
+#: skloogs-megasena.php:648
+#: skloogs-megasena.php:876
+msgid "Quadra Stats"
+msgstr "Estatísticas para Quadras"
+
+#: skloogs-megasena.php:641
+#: skloogs-megasena.php:649
+#: skloogs-megasena.php:877
+msgid "Quadra Winners"
+msgstr "Ganhadores de Quadra"
+
+#: skloogs-megasena.php:645
+#: skloogs-megasena.php:653
+#: skloogs-megasena.php:881
+msgid "Quadra Gains"
+msgstr "Ganhos na Quadra"
+
+#: skloogs-megasena.php:649
+#: skloogs-megasena.php:657
+#: skloogs-megasena.php:885
+msgid "Average Gain per Quadra Winner"
+msgstr "Ganho Médio por Ganhador de Quadra"
+
+#: skloogs-megasena.php:654
+#: skloogs-megasena.php:662
+#: skloogs-megasena.php:890
+msgid "Average Quadra Gain per Game"
+msgstr "Ganho Médio na Quadra por Jogo"
+
+#: skloogs-megasena.php:1254
+#: skloogs-megasena.php:1301
+#: skloogs-megasena.php:1317
+#: skloogs-megasena.php:1744
+msgid "Last Loaded Poll"
+msgstr "Último Concurso Recuperado"
+
+#: skloogs-megasena.php:1259
+#: skloogs-megasena.php:1306
+#: skloogs-megasena.php:1322
+#: skloogs-megasena.php:1749
+msgid "Next Poll Date"
+msgstr "Data do Próximo Concurso"
+
+#: skloogs-megasena.php:1264
+#: skloogs-megasena.php:1311
+#: skloogs-megasena.php:1327
+#: skloogs-megasena.php:1754
+msgid "Hosting Time Offset (hours)"
+msgstr "Diferença de Horário da Hospedagem (horas)"
+
+#: skloogs-megasena.php:1266
+#: skloogs-megasena.php:1313
+#: skloogs-megasena.php:1329
+#: skloogs-megasena.php:1756
+msgid "Hosting Time:"
+msgstr "Hora da Hospedagem:"
+
+#: skloogs-megasena.php:1267
+#: skloogs-megasena.php:1314
+#: skloogs-megasena.php:1330
+#: skloogs-megasena.php:1757
+msgid "Corrected Time:"
+msgstr "Hora Ajustada:"
+
+#: skloogs-megasena.php:1276
+#: skloogs-megasena.php:1323
+#: skloogs-megasena.php:1339
+#: skloogs-megasena.php:1768
+msgid "Save Changes"
+msgstr "Salvar Modificações"
+
+#: skloogs-megasena.php:1093
+#: skloogs-megasena.php:1096
+#: skloogs-megasena.php:1384
+msgid "MegaSena Result"
+msgstr "Resultados MegaSena"
+
+#: skloogs-megasena.php:1104
+#: skloogs-megasena.php:1107
+#: skloogs-megasena.php:1395
+msgid "Random MegaSena"
+msgstr "MegaSena Aleatória"
+
+#: skloogs-megasena.php:1115
+#: skloogs-megasena.php:1118
+#: skloogs-megasena.php:1406
+msgid "MegaSena Gains"
+msgstr "Ganhos MegaSena"
+
+#: skloogs-megasena.php:1129
+#: skloogs-megasena.php:1417
+msgid "MegaSena Suggest"
+msgstr "Suggestões MegaSena"
+
+#: skloogs-megasena.php:417
+#, php-format
+msgid "Numbers appearances until game #%d"
+msgstr "Ocorrências de dezenas até o concurso %d"
+
+#: skloogs-megasena.php:1211
+msgid "Numbers Appearances"
+msgstr "Occorência de dezenas"
+
+#: skloogs-megasena.php:1737
+msgid "Configuration Menu"
+msgstr "Menu de Configuração"
+
+#: skloogs-megasena.php:1738
+msgid "Settings"
+msgstr "Parametros"
+
+#: skloogs-megasena.php:1739
+msgid "Top Level"
+msgstr "Nível Principal"
+
+#: skloogs-megasena.php:1761
+msgid "Max Numbers for Suggestions"
+msgstr "Número máximo de dezenas sugeridas "
+
+#: skloogs-megasena.php:1794
+msgid "This section provides access to all options for the Skloogs plugins you have installed."
+msgstr "Esta secção lhe da acesso as opções de todos os plugins Skloogs que você instalou."
+

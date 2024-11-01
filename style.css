@@ -1,0 +1,174 @@
+div.SkMegaSena {
+	text-align: center;
+	display: inline;
+	float:left;
+	margin: 5px;
+}
+
+.SkMegaSena hr {
+	border-top: dotted 1px grey;
+	border-bottom: none;
+	margin:1px;
+}
+
+td.SkMSCopy {
+	border-top: 1px gray solid;
+	font-size: 8px;
+}
+
+table.SkMSTable {
+	border: green 1px ridge;
+	text-align: center;
+}
+
+table.SkMSStats {
+	border: green 1px ridge;
+	text-align: center;
+}
+
+table.SkMSSuggest {
+	border: blue 1px ridge;
+	text-align: center;
+}
+
+table.SkMSGames {
+	border: orange 1px ridge;
+	text-align: center;
+}
+
+table.SkMSGains {
+	border: green 1px ridge;
+	text-align: center;
+}
+
+
+.SkMSStats td.SkMSAnalisado,
+.SkMSSuggest td.SkMSAnalisado,
+.SkMSGains td.SkMSAnalisado {
+	border-top: 1px gray solid;
+	font-size: 8px;
+	
+}
+.SkMSStats td {
+	padding: 0px;
+	text-align:center;
+	
+}
+
+.SkMSStats tr.SkMSRow1,
+.SkMSSuggest tr.SkMSRow1,
+.SkMSGames tr.SkMSRow1 {
+	background-color:#fffff0;
+}
+	
+.SkMSStats tr.SkMSRow2,
+.SkMSSuggest tr.SkMSRow2,
+.SkMSGames tr.SkMSRow2 {
+	background-color:#ffffb0;
+}
+	
+.SkMSTable td {
+	padding: 1px;
+}
+
+.SkMSTable th, .SkMSStats th {
+	background-color: palegreen;
+	color: white;
+}
+
+.SkMSSuggest th {
+	background-color: skyblue;
+	color: white;
+}
+
+.SkMSGames th {
+	background-color: red;
+	color: white;
+}
+
+.SkMSGains th {
+	background-color: palegreen;
+	color: white;
+}
+
+.SkMSGains th.SkMSGainSec {
+	border: red inset 1px;
+	background-color: green;
+	color: white;
+}
+
+.SkMSGains td {
+	background-color: #ffffb0;
+}
+
+div.SkMSFold {
+	border: yellow dashed 1px;
+}
+
+.SkMSGames th.SkMSYear {
+	background-color: orange;
+	color: black;
+	text-align: left;
+	padding-left: 10px;
+}
+
+
+td.SkMSJogo {
+	text-align: left;
+}
+	
+td.SkMSNumJogo, td.SkMSPreco {
+	text-align:center;
+		border: skyblue 1px inset;
+	background-color: palegreen;
+}
+	
+td.SkMSNumbers {
+	text-align:center;
+	padding:0;
+}
+
+td.SkMSConcurso {
+	text-align:center;
+}
+
+td.SkMSData {	
+	text-align:center;
+}
+
+td.SkMSSena {
+	text-align:center;
+		font-size: 7pt;	
+}
+
+td.SkMSQuina {	
+	text-align:center;
+		font-size: 7pt;	
+}
+
+td.SkMSQuadra {	
+	text-align:center;
+		font-size: 7pt;	
+}
+
+td.SkMSGanhadores {	
+	text-align:center;
+}
+
+td.SkMSReward {	
+	text-align:center;
+}
+
+div.SkMSBola {
+	display: inline;
+	float:none;
+	line-height: 24px;
+	padding: 4px 4px 5px 4px;
+	background: url('http://megasena.skloogs.com/fb/sknum.png') no-repeat center center;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	vertical-align: baseline;
+	color: darkblue;
+}
+	
